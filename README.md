@@ -155,7 +155,7 @@ Following inferences can be drawn from the dashboard;
 - Standard Class shipping mode is identified as the most commonly used. 
 - Actions: Evaluate shipping logistics and delivery timelines to ensure efficient and reliable service for customers choosing Standard Class shipping. 
 
-### [4] Impact of Discounts on Sales:
+### [6] Impact of Discounts on Sales:
 
 - Sub-categories that show a significant increase in sales after discounts indicate that customers are price sensitive and more responsive to discounts in those product categories.
 - Actions: Consider implementing targeted discount promotions or adjusting pricing strategies to capitalize on customer preferences and drive sales.
